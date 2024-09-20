@@ -54,7 +54,7 @@ A simple Notepad application built using Java Swing and AWT. This application al
 
 ![image](https://github.com/user-attachments/assets/ddc2ed64-5333-4ce2-b7d1-8a9d56381c76)
 
-3.Next open your file manager and select project location there  created build folder.
+3.Next open your file manager and select project location there  created dist folder.
 
   ![image](https://github.com/user-attachments/assets/0fc698ab-c29c-47af-b1eb-65936046d47e)
 
