@@ -42,7 +42,7 @@ A simple Notepad application built using Java Swing and AWT. This application al
    
 3.Make Shortcut:
 
- ![Screenshot 2024-09-20 191615](https://github.com/user-attachments/assets/6d16fb38-0940-4c3c-b965-da2b6b9b77ed)
+![image](https://github.com/user-attachments/assets/15dfc453-4f60-46db-a189-46ff82dab2bc)
 
 ## How to Make Shortcut in destop:
 
