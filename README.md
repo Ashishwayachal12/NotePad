@@ -36,7 +36,7 @@ A simple Notepad application built using Java Swing and AWT. This application al
 
    ![image](https://github.com/user-attachments/assets/99ef02e5-2b24-4e79-b4e1-4d9078b9ce14)
 
-2.About:
+2.About:(Note you can change about details )
 
   ![image](https://github.com/user-attachments/assets/188105ea-14e1-4604-b6cf-490c17598969)
    
@@ -46,23 +46,23 @@ A simple Notepad application built using Java Swing and AWT. This application al
 
 ## How to Make Shortcut in destop:
 
-1.Open the project in NetBeans-id and select the notepad project , click properties
+1.Open the project in NetBeans-id and select the notepad project , click properties.
 
  ![image](https://github.com/user-attachments/assets/d77aacf3-daab-495b-ae13-1382ee74c454)
  
-2.Next Select Build and ok
+2.Next Select Build and ok.
 
 ![image](https://github.com/user-attachments/assets/ddc2ed64-5333-4ce2-b7d1-8a9d56381c76)
 
-3.Next open your file manager and select project location there  created build folder
+3.Next open your file manager and select project location there  created build folder.
 
   ![image](https://github.com/user-attachments/assets/0fc698ab-c29c-47af-b1eb-65936046d47e)
 
-4.  Next  double click on Nodepad
+4.  Next  double click on Nodepad.
   
    ![image](https://github.com/user-attachments/assets/26aeb1fa-dff6-458e-9375-4bb3b518b394)
 
-5.Create shortcut on your destop and you can want change the icon
+5.Create shortcut on your destop and you can want change the icon.
 
    ![image](https://github.com/user-attachments/assets/15dfc453-4f60-46db-a189-46ff82dab2bc)
 
@@ -81,7 +81,7 @@ A simple Notepad application built using Java Swing and AWT. This application al
     
    ![image](https://github.com/user-attachments/assets/2397f624-98c7-4000-888a-0f1f0c3e459e)
    
-  3. After you can restat the computer and double click on Notepad it will run
+3. After you can restat the computer and double click on Notepad it will run.
 
 
   ## Contact:
