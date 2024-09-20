@@ -71,7 +71,7 @@ A simple Notepad application built using Java Swing and AWT. This application al
 
 ## Note:
 
-  1.After double click file is not opening you shoulde install java from follwing link:
+  1.After double click file is not opening you shoulde install java from following link:
   
     https://www.java.com/download/ie_manual.jsp
     
