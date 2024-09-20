@@ -75,7 +75,7 @@ A simple Notepad application built using Java Swing and AWT. This application al
   
     https://www.java.com/download/ie_manual.jsp
     
-  2.Next install jarfix in follwing link:(It can execute all file to gether)
+  2.Next install jarfix in following link:(It can execute all file to gether)
   
     https://johann.loefflmann.net/en/software/jarfix/index.html
     
